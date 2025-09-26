@@ -1,0 +1,7 @@
+"# Task Documentation" 
+"- Initialized repo" 
+"- Created branches" 
+"- Added README" 
+"- Used pull requests" 
+"- Added .gitignore" 
+"- Created tags" 
