@@ -1,0 +1,47 @@
+# Task4 DevOps Git Project
+
+A **full Git workflow** from scratch, including branches, commits, files, `.gitignore`, and tags.
+
+
+1. **Initialized a Git repository**
+   - Created a local Git repo using `git init`.
+
+2. **Added a README.md**
+   - Added a simple README describing the project.
+   - Committed it to Git.
+
+3. **Renamed the default branch to `main`**
+   - Ensured GitHub compatibility.
+
+4. **Pushed the main branch to GitHub**
+   - Connected local repo to GitHub remote.
+   - Used `git push -u origin main`.
+
+5. **Created additional branches**
+   - `dev` branch for development.
+   - `feature-1` branch for new features.
+   - Pushed both branches to GitHub.
+
+6. **Created a `.gitignore` file**
+   - Ignored unnecessary files like logs, temp files, `node_modules`, and `.env`.
+
+7. **Added TASKS.md**
+   - Documented all tasks we did step by step.
+
+8. **Created a Git tag**
+   - Tagged version `v1.0` to mark the milestone.
+
+## Branches
+- `main` – stable code
+- `dev` – development branch
+- `feature-1` – new feature development
+
+## Files
+- `README.md` – project description
+- `.gitignore` – ignored files
+- `TASKS.md` – step-by-step documentation
+
+## Tag
+- `v1.0` – first project version
+
+---
