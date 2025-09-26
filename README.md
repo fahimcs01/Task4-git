@@ -1,1 +1,1 @@
-"# Task4 DevOps Git Project" 
+"This is a version-controlled DevOps project using Git." 
