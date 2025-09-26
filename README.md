@@ -1,5 +1,6 @@
-main
-"This is a version-controlled DevOps project using Git."
-"# Task4 DevOps Git Project" 
-"## Added new feature section" 
-dev
+# Task4 DevOps Git Project
+This is a version-controlled DevOps project using Git.
+
+## Added new feature section
+## Update changes
+New line of content
