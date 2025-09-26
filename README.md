@@ -1,1 +1,1 @@
-"This is a version-controlled DevOps project using Git." 
+"changes in dev for pull"
